@@ -8,16 +8,6 @@
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-87.10%25-brightgreen)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
----
-
-## 👥 Group Members
-
-| Name | Registration No. |
-|------|-----------------|
-| K.P.M.S. Sithara | ASP/2022/093 |
-| W.A.A.S. Weerasingha | ASP/2022/147 |
-| S.S.D. Athukorala | ASP/2022/114 |
-| W.M.D.U. Viyalagoda | ASP/2022/107 |
 
 ---
 
